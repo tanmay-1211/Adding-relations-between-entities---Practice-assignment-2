@@ -1,0 +1,27 @@
+.product-card {
+  background-color: #1e1e1e; /* Dark background for contrast */
+  color: #f0f0f0;            /* Light text */
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+  width: 300px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.product-card img {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.product-card h2 {
+  margin: 10px 0;
+  font-size: 1.4rem;
+  color: #ffffff;
+}
+
+.product-card p {
+  font-size: 1rem;
+  color: #dcdcdc;
+}
